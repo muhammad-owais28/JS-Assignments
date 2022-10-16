@@ -1,0 +1,10 @@
+let cities = ["Karachi","Dehli","Melborne","Berlin","Tokio",];
+console.log(cities);
+console.log([...cities].sort());
+console.log(cities);
+console.log([...cities].sort().reverse());
+console.log(cities);
+console.log(cities.reverse());
+console.log(cities.reverse());
+console.log(cities.sort());
+console.log(cities.reverse());
